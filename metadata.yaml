@@ -1,0 +1,13 @@
+name: kook_monitor
+display_name: KOOK 开黑提醒
+short_desc: KOOK 语音频道有人进出时，自动推送通知到群聊或私聊
+desc: KOOK 语音频道进出监控，有人进入/离开语音频道时，经 AstrBot 自动推送通知到已接入平台的群聊或私聊
+version: 1.7.0
+author: q4q3q9q9
+repo: https://github.com/q4q3q9q9/astrbot_plugin_kook_monitor
+social_link: https://github.com/q4q3q9q9
+astrbot_version: ">=4.16,<5"
+tags:
+  - kook
+  - 语音频道
+  - 通知
