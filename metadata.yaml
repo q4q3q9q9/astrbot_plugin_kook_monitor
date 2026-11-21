@@ -6,7 +6,7 @@ version: 1.7.0
 author: q4q3q9q9
 repo: https://github.com/q4q3q9q9/astrbot_plugin_kook_monitor
 social_link: https://github.com/q4q3q9q9
-astrbot_version: ">=4.16,<5"
+astrbot_version: ">=4.16"
 tags:
   - kook
   - 语音频道
